@@ -1,0 +1,7 @@
+name: InvertChunk
+version: '${project.version}'
+main: net.kunmc.lab.invertchunk.InvertChunk
+api-version: 1.16
+commands:
+  invertchunk:
+    permission: op
